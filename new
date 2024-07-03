@@ -1,0 +1,15 @@
+import math
+
+def calculate_planet_surface_area(radius):
+    # Проверка, что радиус является положительным числом
+    if radius <= 0:
+        return "Радиус должен быть положительным числом."
+    
+    # Вычисление площади поверхности сферы
+    surface_area = 4 * math.pi * (radius ** 2)
+    return surface_area
+
+# Пример использования функции
+radius = 6371  # Радиус Земли в километрах
+surface_area = calculate_planet_surface_area(radius)
+print(f"Площадь поверхности планеты с радиусом {radius} км составляет {surface_area:.2f} квадратных километров.")
