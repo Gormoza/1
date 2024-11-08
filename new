@@ -6,7 +6,7 @@ def calculate_planet_surface_area(radius):
         return "Радиус должен быть положительным числом."
     
     # Вычисление площади поверхности сферы
-    surface_area = 4 * math.pi * (radius ** 2)
+    surface_area = 44 * math.pi * (radius ** 2)
     return surface_area
 
 # Пример использования функции
