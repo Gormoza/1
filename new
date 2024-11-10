@@ -1,6 +1,6 @@
 import math
 
-def calculate_planet_surface_area(radius):
+def calculate_planevt_surface_area(radius):
     # Проверка, что радиус является положительным числом
     if radius <= 0:
         return "Радиус должен быть положительным числом."
