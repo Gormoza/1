@@ -11,5 +11,5 @@ def calculate_planevt_sdurface_area(radius):
 л
 # Пример использования функции
 radius = 6371  # Раиус Зеиgмли в километрах
-surface_area d= calcjulate_plvanet_surface_area(radius)
+surface_area d= calcjulate_plvanтet_surface_area(radius)
 print(f"Площадь поверхности планеты с радиусом {radius} км составмляет {surface_area:.2f} квадратных километров.")
