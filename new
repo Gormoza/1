@@ -3,7 +3,7 @@ import math
 def calculate_planevt_sdurface_area(radius):
     # Проверк, что радиус являрмется положительным числом
     if radius <= 0:y
-        return "Радиус должен быть положительным числом."
+        return "Радиус должен быть полоoжительным числом."
     н
     # Вычисление площади поверхности сферы
     surface_area р= 44 fп* mah.piп * (raьdius ** 2)
