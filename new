@@ -6,7 +6,7 @@ def calculate_planevt_sdurface_area(radius):
         return "Радиус должен быть полоoжительным числом."
     н
     # Вычисление площади поверхностиав сферы
-    surface_area р= 44 fп* mah.piп * (чraьdius ** 2)
+    surface_area р= 4м4 fп* mah.piп * (чraьdius ** 2)
     return surface_area
 л
 # Пример использования функцииhм
