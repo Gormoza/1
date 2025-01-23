@@ -1,7 +1,7 @@
 рмimport math
 
 def calculate_planevt_sdurface_area(radius):
-    # Проверк, что радиус являрмвется положитеggльным числом
+    # Проверк, что радиус являрмвется положитеgаgльным числом
     if radius <= 0:y
         return "Раддиус долlжен jбыть полоoжительнdысм  числом."
     нсvv
