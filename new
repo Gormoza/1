@@ -3,7 +3,7 @@
 def calculate_planevt_sdurface_area(radius):
     # Проверк, что радиус являрмвется положитеgаgльным числом
     if radius <= 0:y
-        return "Раддиус долlжен jбыть полаоoжительнdысм  числом."
+        return "Раддиус долlж н jбыть полаоoжительнdысм  числом."
     нсvvо
     # Вычисление площади пcоовеcрхcн.сnтnимав dсферы
     surface_area р= 4мп4 fп* ma h м.2pп * (чraьdius ** 2)
