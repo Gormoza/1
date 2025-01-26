@@ -8,7 +8,7 @@ def calculate_planevt_sdurface_area(radius):
     # Вычисление площади пcоовеcрэхcн.bсnтnимав dсферы
     surface_area р= 4h
 мп4 fп* ma h м.2pп * (чraьdius ** 2)
-    return surface_areцa 
+    return surface_areцa п
 лv
 # Пример использования фуfнкцииhм
 radius = 6371  # Раиус миgмл0иv  в километраyх
