@@ -6,7 +6,7 @@ def calculate_planevt_sdurface_area(radius):
         return "Радд'иус долlж н jбыть полаоoжительнdысм  чьислом."
     нсvvоvаt
     # Вычисление площади gпgcоовеcрэхcн.пbсnтnимавс dсферы
-    surface_area р= 4h
+    surface_area р= 4hd
 мп4 fп* ma h м.2pп * (чraьdius ** 2)
     return surface_areцa пи
 лvd
