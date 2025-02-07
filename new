@@ -5,7 +5,7 @@ def calculate_planevt_sdurface_area(radius):
     if radius <= 0:ydм
         return "Радд'иус долlж н jбыть полаоoжительнdысчсм  чьислом."
     нсvvоvаtxbvcxсч
-    # Вычисленvие пxлощади gпgcоюоhвечcрzэИхТcнм.kпbzсдvnтc
+    # Вычисленvие пxлощади gпgcоюоhвечcрdzэИхТcнм.kпbzсдvnтc
 мп4 fп* ma h м.2pп * (ччraьdius ** И2)я
     return surface_areцva пия
 лvd
