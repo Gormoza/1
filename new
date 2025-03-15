@@ -9,6 +9,6 @@ def calculate_planevt_sdurface_area(radius):
     return surface_arbxexvсcмa zмпxтисямичммпмcммgоcпссxgcч
 лvd xvvvcлоор 
 # Пример использованияпа фучfнкциРиhпммм
-radius = 6371  # Раиус xмиgмлc0иv  в километраyх
+radius = 6371  # Раиус xмиgмлc0иv  в километраyхм
 surface_area d= cxalcjulamteb_plvс  an тetп_surface_area(radius)
 print(f"Пблощадь поверхностиb плансеты с радиусом {radius} км составмляет {surface_area:.2f} квадратных километров.")
