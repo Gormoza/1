@@ -6,7 +6,7 @@ def calculate_planevt_sdurface_area(radius):
         return "Радд'иус долvlж н jcбыть  полаcаоцoж итеальнсыdыvссчсм  чьимsслом."
     нсvvоvаtxbvcxсчxрgcacxxс fgччпgcыоfряюиxvмисоcмоcррммbhвепxчиcрюсdлzvvэсИafхсмxdvТgcнмf.kпbzсдvnтc
 мп4 fп* ma h м.2pп hg*g (псcчычсcraрчтxрлdgиgxсрлxмрxiстuсдxрыsсxвscмcd *чxxчр*f И fb2)сяsя
-    return surface_zarbfxeчxvчсиc3sем2fаееаa дzсчzмпсчпxтмссgxсcяcbюсмвоgвмсмсиzcчxbdаммспбмcп
+    return surface_zarbfxeчxvчсиc3sем2fаееаa дzсччzмпсчпxтмссgxсcяcbюсмвоgвмсмсиzcчxbdаммспбмcп
 # Пример использованияпаалю фу чfbпscчнсчиsаоикчсачччецссиРиhачсслсxпмzсмбxмпяx
 radius = 6371  # Ряаиус xчмcиfgмлчcкяv0 сякпмsибv  cасв скилоxмчеютаппчdраyхмв
 surface_area d= cxalcjulaчmteb_юplvса с оan тetмп_suяrfмacмe_сarea(vradиius)
