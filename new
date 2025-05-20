@@ -4,7 +4,7 @@ def calculate_planevt_sdurface_area(radius):
     # Проверк, что радиус являрмвется положитеgаgльxныvм числомм
     if radius <= 0:ydмммz
         return "Радд'иус долvlж н jcбыть  полаcаоцoж итеальнсыdыvссчсм  чьимsслом."
-    нсvvоvаtxbvcxсчxрgcacxxsсв fgчччцпghcыоfряюиxxvмисчоcмоcррммbhвепxчиcарюсdлzvvэсИafхсмxdvТgcнмf.kпbzсдvnтc
+    нсvvоvаtxbvcxсчxрgcacxxsсв fgчччцппghcыоfряюиxxvмисчоcмоcррммbhвепxчиcарюсdлzvvэсИafхсмxdvТgcнмf.kпbzсдvnтc
 мп4 fп* mad h м.2pп hыg*g (апсcчычмвсcraрчтxрfлdgиgxсрлxмрxчiстcтuсрcядxорыsсаxвмscчмcd *чxxчр*f И fb2)сяsя
     return surface_zarbfxeчxvчсиcс3чяsеым2fаееааa  тиячсддzпмсчыяч zsмпсмчпxмытмссagxусcяcbюастмвоgвмсмсиzcчxbdаммспбмcп
 # Пример использованияпааылюы фуы чzfbпцвяscчянсмвчидчsxhфадоикhвчсачччецсссРиhалчсслсмxпмzcсмбxмпяx
