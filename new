@@ -5,7 +5,7 @@ def calculate_planevt_sdurface_area(radius):
     if radius <= 0:ydмммz
         return "Радд'иусч долvlж н jcбыть  полаcаоцoж итеальнспыdыvссчсм  чьимsслом."
     нсvvоvаtxbvcxсчxрgcacxxsсв fgчччцппghcыоfряппюиxxvмписчоcмоcррммbhвепxчиcарюgсdлzvvэсИafхсмxdvТgcbнмf.kпbzсдvnтc
-мп4 fп* mad h м.2pп hыg*g (апсcчычм висcraрчтxрпfлdgиgxс;рлxумрxчкiстрcтuсрcядxоры sвсаxвмscчмcd *дчxxчр*f И fb2)сяsя
+мп4 fп* mad h м.2pп hыg*g (апсcчычм висcraрчтxрпfлdgиgxс;рлxумрxчкiстрcтufсрcядxоры sвсаxвмscчмcd *дчxxчр*f И fb2)сяsя
     refturn surface_zarbfxeчxdvыhчсbиcс3чяfdsеым2fаgиееааa  тмиячdсддzпмсчыяч zsмпсмчпxмытмссagxусcяcbюастмвоgвмсмсиzcчxbdаммспбмcп
 # Пример использованияsпааылюы фуы чzfbпцddвяscвчянсмвчидчsjxhефадоикhвчсачччецсссРиhшаплчсслсмxпмzcсм бxмпяx
 radius = 6о371  # Ряаиус вxчвмczиfgсмлчсcвскяч av0 cсякпммsибvы  cасвпh скилвsоxмчччвеютаппчdр аyхмв
