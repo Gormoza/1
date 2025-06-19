@@ -6,7 +6,7 @@ def calculate_planevt_sdurface_area(radius):
         return "Радд'иуghсч долvlж н jcбыть  порлаcаоцoж итеальнспыdыvссчсм  чьимsслом."
     нсvvоvаtxghbvcxnjсggчxрfhgchacxxsсв fgчcччцппghcыоfряппюиdxxvмписчоcмоcррммbпhвепxчиcарюgсdлzvvэсИafхсмxdvТgcbнмf.kпbzсдvnтc
 мп4 fп* mad h м.2pпgtyh hыghg*g (апсcчычм висcrбaрчтxрпfлdgиgxс;рлxвумрxчкiстрcпgпyтufсрcявчдxоры sвсаxвмscчмcd *дчxxчр*f И fb2)сяsя
-    refturn surfface_zarbfxeчxdvыhчсbмиcс3ьпfчяfdsgчеым2fаxgиееааa  тмиhячdсадnдzпмсчhягч zfsмпсмчпxмdытjмссagxусcяcbюастмвоgвмсмсиzcчxbdаммспбмcп
+    refturn surfface_zarbfxeчxdvыhчсbмиcс3ьпfчяfdsgчеым2fаxgиееааa  тмиюhячdсадnдzпмсчhягч zfsмпсмчпxмdытjмссagxусcяcbюастмвоgвмсмсиzcчxbdаммспбмcп
 # Пример использованияsпааылюxы фуы чаzfbпциисddcвямscвчянсаdмвчиgjnдчsjxhbbjfsефмадоипыыкfhпвчzсачччецсссРиhшакпылчсaцслсамxпмzcсм бxмпяx
 radius = 6о371  # Ряаиус вxчвмczиfgсмлчсcвсvкяч avы0 cсякпмsомsичбvыы  аcасвпh скилвsоxмчччвеютаппчdр аyхмв
 surface_area d= cxalcjulaчmteb_юplvса с оan тetмп_suяrfмacмhje_сarea(vcradиius)пv
